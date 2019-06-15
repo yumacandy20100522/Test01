@@ -1,6 +1,6 @@
 # ChenXian Introduction
 
-![chenxian](images/chenxian.JPG)
+![](images/chenxian.JPG)
 - ChenXian
 - female
 - Technical Writer
